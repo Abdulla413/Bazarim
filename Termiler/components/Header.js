@@ -17,7 +17,7 @@ function Header() {
     <div className={styles.wrapper}>
       <div className={styles.content}>
         <div className={styles.logoContainer} >
-        <Image className={styles.logo} src={Logo} alt='' width={150} />
+        <Image className={styles.logo} src={Logo} alt='author' width={150} />
         </div>
         <div className={styles.bannerNav}>
             <div>ھىكايىلىرىمىز</div>

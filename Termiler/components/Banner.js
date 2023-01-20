@@ -15,7 +15,7 @@ function Banner() {
           </h3>
          <button className="bg-black text-white py-2 px-4 rounded-full font-alkatip_t">ئوقۇيمەن</button>
       </div> 
-      <Image className="cursor-pointer object-cover" src={BannerImage} alt='' width={500} height={400}  />
+      <Image className="cursor-pointer object-cover" src={BannerImage} alt='banner' width={500} height={400}  />
     </div>
   </div>
     </>
