@@ -14,6 +14,7 @@
     "@sanity/image-url": "^1.0.1",
     "@stripe/stripe-js": "^1.46.0",
     "canvas-confetti": "^1.6.0",
+    "firebase": "^9.16.0",
     "next": "13.1.2",
     "next-sanity-image": "^5.0.0",
     "react": "18.2.0",
